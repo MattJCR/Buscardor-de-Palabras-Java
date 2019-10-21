@@ -1,0 +1,16 @@
+La palabra r esta en la linea: 4 Columna: 36
+La palabra r esta en la linea: 6 Columna: 14
+La palabra r esta en la linea: 10 Columna: 3
+La palabra r esta en la linea: 13 Columna: 8
+La palabra r esta en la linea: 15 Columna: 7
+La palabra r esta en la linea: 16 Columna: 8
+La palabra r esta en la linea: 20 Columna: 27
+La palabra r esta en la linea: 21 Columna: 35
+La palabra r esta en la linea: 22 Columna: 18
+La palabra r esta en la linea: 23 Columna: 30
+La palabra r esta en la linea: 24 Columna: 1
+La palabra r esta en la linea: 25 Columna: 10
+La palabra r esta en la linea: 27 Columna: 5
+La palabra r esta en la linea: 28 Columna: 33
+La palabra r esta en la linea: 29 Columna: 8
+La palabra r esta en la linea: 30 Columna: 40
